@@ -1,1 +1,1 @@
-# googleQuestionnaireRobot
+# 使用前須更新Selenium.WebDriver.ChromeDriver至本機Chrome瀏覽器相同之版本
